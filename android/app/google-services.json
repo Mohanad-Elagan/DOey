@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877925984601",
+    "project_id": "ala-project-71822",
+    "storage_bucket": "ala-project-71822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877925984601:android:200020bcc199aef9f08448",
+        "android_client_info": {
+          "package_name": "com.example.elagan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877925984601-dsceu9vf9jjpi7uqmrha8l8949od581n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkb186eNzeV56pROpOgWjklnw3xCAWROo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877925984601-dsceu9vf9jjpi7uqmrha8l8949od581n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
